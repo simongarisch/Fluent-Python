@@ -4,3 +4,4 @@ set for matching in
 dictcomps and setcomps
 keyword only parameters in Python 3
 Function Annotations and typing
+Finding Strategies in a Module
