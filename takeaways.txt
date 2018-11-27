@@ -6,4 +6,5 @@ keyword only parameters in Python 3
 Function Annotations and typing
 Finding Strategies in a Module
 When Python Executes Decorators... import time and runtime.
-Closures. the __code__ attribute 
+Closures. the __code__ attribute
+Generic Functions with Single Dispatch... using functools.singledispatch
