@@ -9,3 +9,5 @@ When Python Executes Decorators... import time and runtime.
 Closures. the __code__ attribute
 Generic Functions with Single Dispatch... using functools.singledispatch
 See chapter 8 append_to.func_defaults for when default mutable parameters are created and destroyed.
+weakref finalize in chap 8.
+
