@@ -11,3 +11,4 @@ Generic Functions with Single Dispatch... using functools.singledispatch
 See chapter 8 append_to.func_defaults for when default mutable parameters are created and destroyed.
 weakref finalize in chap 8.
 We have covered weak references before from chap 8.
+Tricks Python Plays with Immutables.
