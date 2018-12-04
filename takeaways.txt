@@ -12,3 +12,4 @@ See chapter 8 append_to.func_defaults for when default mutable parameters are cr
 weakref finalize in chap 8.
 We have covered weak references before from chap 8.
 Tricks Python Plays with Immutables.
+__getitem__, __getattr__ and other special methods in chapter 10.
