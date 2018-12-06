@@ -14,4 +14,4 @@ We have covered weak references before from chap 8.
 Tricks Python Plays with Immutables.
 __getitem__, __getattr__ and other special methods in chapter 10.
 Chap 10 with FrenchDeck and immutable vs mutable protocols
-
+Also see https://stephensugden.com/crash_into_python/Protocols.html on protocols.
