@@ -15,3 +15,7 @@ Tricks Python Plays with Immutables.
 __getitem__, __getattr__ and other special methods in chapter 10.
 Chap 10 with FrenchDeck and immutable vs mutable protocols
 Also see https://stephensugden.com/crash_into_python/Protocols.html on protocols.
+'The Numbers Tower of ABCs' and isinstance
+Going over abc.ABC and how this differs in Python 2
+Chap 11 and @register with ABCs: https://docs.python.org/3/library/abc.html
+See the __mro__ (method resolution order) in chap 11 too https://navaspot.wordpress.com/2016/10/06/understand-__mro__/
