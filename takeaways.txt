@@ -22,3 +22,4 @@ See the __mro__ (method resolution order) in chap 11 too https://navaspot.wordpr
 More on the mro with multiple inheritance in chap 12.
 Chap 11 Subclassing Built-In Types Is Tricky.
 Mixins in Chap 12
+isinstance and issubclass
